@@ -18,8 +18,8 @@ padding: 15px;
 }
 img {
   border-radius: 50%;
-  width: 100%;
-  height: 80%;
+  width: 60%;
+  height: 50%;
   margin: 10px auto;
 }
 p {

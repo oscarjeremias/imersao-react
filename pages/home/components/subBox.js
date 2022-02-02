@@ -32,7 +32,6 @@ function SubBox() {
     }
   .boxFoto {
       width: 100%;
-      height: 50%;
       margin: 10px;
     }
    @media only screen and (min-width: 415px) {
