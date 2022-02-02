@@ -5,7 +5,7 @@ function Main() {
   return (
   <>
   <main>
-  <Title tag="h2">Chat dev</Title>
+  <Title>Chat dev</Title>
   <Box />
   </main>
   <style jsx>{`

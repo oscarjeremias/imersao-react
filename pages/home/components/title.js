@@ -1,22 +1,21 @@
-function Title({tag,children}) {
-  const Tag = tag
-
+function Title({children}) {
   return (
     <>
-    <Tag>{children}</Tag>
+    <h1>{children}</h1>
     <style jsx>
       {`
-      ${Tag} {
+      h1 {
       font-size: 1.5rem;
       text-align: center;
       }
       @media only screen and (min-width: 650px) {
-      ${Tag} {
+      h1 {
       font-size: 4rem;
       }
       }
       `}
-    </style> < />
+    </style> 
+    </>
   )
 }
 

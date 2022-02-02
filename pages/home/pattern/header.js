@@ -3,7 +3,7 @@ function Header() {
   return (
   <>
  <header>
- <Title tag="h1">OJPROJECT</Title>
+ <Title>OJPROJECT</Title>
  </header>
  <style jsx>{`
  header {
