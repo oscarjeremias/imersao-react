@@ -1,7 +1,7 @@
 function Input() {
   return (
   <>
-  <input type="text" value="oscarjeremias"/>
+  <input type="text" defaultValue="oscarjeremias"/>
   <style jsx>{`
   input {
     margin: 30px auto;

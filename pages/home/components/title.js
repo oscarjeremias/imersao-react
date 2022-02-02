@@ -1,6 +1,4 @@
-function Title( {
-  tag, children
-}) {
+function Title({tag,children}) {
   const Tag = tag
 
   return (
